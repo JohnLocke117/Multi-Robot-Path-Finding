@@ -1,1 +1,1 @@
-# Multi-Robot-Path-Finding
+# Multiple Robot Path Finding
