@@ -25,6 +25,7 @@
 optimal path for multiple robots from a Start node to a Goal Node, all while avoiding Static and Dynamic obstacles encountered in the path.</p>
 
 ![image](https://github.com/JohnLocke117/Multi-Robot-Path-Finding/assets/99555479/1fd1b72d-2070-424e-a76c-725bae15447d)
+<br/>
 ![image](https://github.com/JohnLocke117/Multi-Robot-Path-Finding/assets/99555479/1ba9b314-621b-4c31-b61c-7479e0132ffe)
 
 
